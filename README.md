@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Anupam
+### Konichiwaaa 😁 , I am Anupam Bharadwaj
 #### I am a self-motivated computer science student with keen interest in coding.
 
 Skills:  JS / HTML / CSS / PYTHON / C++ / JAVA
